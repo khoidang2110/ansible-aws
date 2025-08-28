@@ -1,0 +1,9 @@
+[web]
+web_01 ansible_host=10.0.0.21
+web_02 ansible_host=10.0.0.60
+
+[database]
+database ansible_host=10.0.0.38
+
+[lb]
+lb ansible_host=10.0.0.5
